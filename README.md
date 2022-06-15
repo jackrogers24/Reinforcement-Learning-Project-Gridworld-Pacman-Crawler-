@@ -42,7 +42,7 @@
 
 This project was developed by John Denero, Dan Klein, Pieter Abbeel, and many others at the University of California, Berkeley. Please refer to the following
     write-up document for specifics on the project structure and how to navigate/run the files: <br>http://ai.berkeley.edu/reinforcement.html.<br> This document provides
-    a comprehensive description of the project's content and goals and serves as the core README.
+    a comprehensive description of the project's content and goals and serves as the core README. This project is hosted by Jupyter Notebook.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
