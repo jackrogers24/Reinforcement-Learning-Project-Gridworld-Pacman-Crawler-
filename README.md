@@ -51,6 +51,7 @@ This project was developed by John Denero, Dan Klein, Pieter Abbeel, and many ot
 ### Built With
 
 * [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
