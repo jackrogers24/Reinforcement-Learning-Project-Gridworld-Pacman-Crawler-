@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jrogers2400/Reinforcement-Learning-Project-Gridworld-Pacman-Crawler-.git">
-    <img src="pacman.jpg" alt="Logo" width="80" height="80">
+    <img src="pacman.png" alt="Logo" width="567" height="206">
   </a>
 
 <h3 align="center">Reinforcement Learning on Gridworld, Crawler, and Pacman</h3>
