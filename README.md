@@ -63,7 +63,7 @@ This project was developed by John Denero, Dan Klein, Pieter Abbeel, and many ot
 
 Jack Rogers  - jrogers2400@gmail.com
 
-Project Link: [https://github.com/jrogers2400/Reinforcement-Learning-Project-Gridworld-Pacman-Crawler-.git](https://github.com/jrogers2400/Reinforcement-Learning-Project-Gridworld-Pacman-Crawler-.git)
+Project Link: [https://github.com/jackrogers24/Reinforcement-Learning-Project-Gridworld-Pacman-Crawler-](https://github.com/jackrogers24/Reinforcement-Learning-Project-Gridworld-Pacman-Crawler-)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
